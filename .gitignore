@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+.env.*
+.DS_Store
+custom_files/*.pbf
+custom_files/*.osm.pbf
+

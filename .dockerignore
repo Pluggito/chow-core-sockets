@@ -1,0 +1,8 @@
+node_modules
+dist
+.git
+.env
+.env.local
+custom_files/*.pbf
+custom_files/*.osm.pbf
+
